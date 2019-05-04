@@ -10,10 +10,10 @@ namespace Other_tasks
     {
         static void Main(string[] args)
         {
-            int a = 0;
+            int a = 10;
             for (int i = 0; i < a; i++)
             {
-
+                Console.WriteLine(i);
             }
         }
     }
